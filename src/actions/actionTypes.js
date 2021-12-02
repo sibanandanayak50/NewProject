@@ -1,0 +1,1 @@
+export const ALL_TEXT_VALUE = 'ALL_TEXT_VALUE';
